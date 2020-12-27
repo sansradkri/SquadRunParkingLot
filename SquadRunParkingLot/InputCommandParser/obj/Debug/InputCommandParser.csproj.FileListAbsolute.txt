@@ -1,0 +1,6 @@
+C:\Users\320017587\source\repos\SquadRunParkingLot\InputCommandParser\bin\Debug\InputCommandParser.dll
+C:\Users\320017587\source\repos\SquadRunParkingLot\InputCommandParser\bin\Debug\InputCommandParser.pdb
+C:\Users\320017587\source\repos\SquadRunParkingLot\InputCommandParser\obj\Debug\InputCommandParser.csprojAssemblyReference.cache
+C:\Users\320017587\source\repos\SquadRunParkingLot\InputCommandParser\obj\Debug\InputCommandParser.csproj.CoreCompileInputs.cache
+C:\Users\320017587\source\repos\SquadRunParkingLot\InputCommandParser\obj\Debug\InputCommandParser.dll
+C:\Users\320017587\source\repos\SquadRunParkingLot\InputCommandParser\obj\Debug\InputCommandParser.pdb
